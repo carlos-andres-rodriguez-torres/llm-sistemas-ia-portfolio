@@ -1,8 +1,5 @@
 # 📘 Portafolio - Asignatura de LLMs y Sistemas de IA (UPC - 2024/2025)
 
-![Portafolio LLMs](https://img.shields.io/badge/LLMs-IA-blueviolet)
-![UPC](https://img.shields.io/badge/UPC-MEI-informational)
-
 Este repositorio recopila todos los trabajos, proyectos, reflexiones y aprendizajes realizados durante la asignatura. A través de prácticas semanales, exploramos el uso de modelos de lenguaje (LLMs), técnicas de prompting, recuperación semántica, agentes inteligentes y más.
 
 ---
@@ -18,15 +15,15 @@ Este repositorio recopila todos los trabajos, proyectos, reflexiones y aprendiza
 
 ## 📁 Trabajos realizados
 
-| Fecha  | Proyecto                                                                                             | Descripción                                                                                            | Repositorio                                                                                             |
-| ------ | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
-| 20-Feb | [Transcripción automática a SRT](https://github.com/Jofrix98UPC/Mini-Hackaton-1-DGSI)                | Sistema local/API que transcribe audios/videos a subtítulos `.srt` distinguiendo interlocutores.       | [🔗 Mini-Hackaton-1-DGSI](https://github.com/Jofrix98UPC/Mini-Hackaton-1-DGSI)                          |
-| 27-Feb | [Web Scraping a Markdown](https://github.com/carlos-andres-rodriguez-torres/Mini-Hackathon-Markdown) | Scraper que convierte el sitio de la FIB en archivos Markdown estructurados, enlazados y con imágenes. | [🔗 Mini-Hackathon-Markdown](https://github.com/carlos-andres-rodriguez-torres/Mini-Hackathon-Markdown) |
-| 6-Mar  | [Embeddings y búsqueda semántica](https://github.com/ro-carlos/Mini-Hackaton-Embeddings)             | Generación de embeddings para comparar similitud semántica entre textos.                               | [🔗 Mini-Hackaton-Embeddings](https://github.com/ro-carlos/Mini-Hackaton-Embeddings)                    |
-| 13-Mar | [Simple RAG](https://github.com/ochand-upc/Mini-Hackathon-LLM)                                       | Sistema de Recuperación + Generación sobre documentos PDF.                                             | [🔗 Mini-Hackathon-LLM](https://github.com/ochand-upc/Mini-Hackathon-LLM)                               |
-| 20-Mar | [RAG semántico + diccionario](https://github.com/icorn1/dgsi-dictionary)                             | Mejora del RAG usando diccionario semántico y OCR.                                                     | [🔗 dgsi-dictionary](https://github.com/icorn1/dgsi-dictionary)                                         |
-| 10-Abr | [Chatbot LLM + RAG](https://github.com/ochand-upc/llm-chat-rag)                                      | Sistema con interfaz Streamlit para consultar PDFs usando OCR y recuperación semántica.                | [🔗 llm-chat-rag](https://github.com/ochand-upc/llm-chat-rag)                                           |
-| 15-May | [Agente con uso de navegador](https://github.com/ro-carlos/browser-use)                              | Agente LLM que interactúa con el navegador, accede a datos en tiempo real y responde tareas complejas. | [🔗 browser-use](https://github.com/ro-carlos/browser-use)                                              |
+| Fecha  | Proyecto                        | Descripción                                                                                            | Repositorio                                                                                             |
+| ------ | ------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
+| 20-Feb | Transcripción automática a SRT  | Sistema local/API que transcribe audios/videos a subtítulos `.srt` distinguiendo interlocutores.       | [🔗 Mini-Hackaton-1-DGSI](https://github.com/Jofrix98UPC/Mini-Hackaton-1-DGSI)                          |
+| 27-Feb | Web Scraping a Markdown         | Scraper que convierte el sitio de la FIB en archivos Markdown estructurados, enlazados y con imágenes. | [🔗 Mini-Hackathon-Markdown](https://github.com/carlos-andres-rodriguez-torres/Mini-Hackathon-Markdown) |
+| 6-Mar  | Embeddings y búsqueda semántica | Generación de embeddings para comparar similitud semántica entre textos.                               | [🔗 Mini-Hackaton-Embeddings](https://github.com/ro-carlos/Mini-Hackaton-Embeddings)                    |
+| 13-Mar | Simple RAG                      | Sistema de Recuperación + Generación sobre documentos PDF.                                             | [🔗 Mini-Hackathon-LLM](https://github.com/ochand-upc/Mini-Hackathon-LLM)                               |
+| 20-Mar | RAG semántico + diccionario     | Mejora del RAG usando diccionario semántico y OCR.                                                     | [🔗 dgsi-dictionary](https://github.com/icorn1/dgsi-dictionary)                                         |
+| 10-Abr | Chatbot LLM + RAG               | Sistema con interfaz Streamlit para consultar PDFs usando OCR y recuperación semántica.                | [🔗 llm-chat-rag](https://github.com/ochand-upc/llm-chat-rag)                                           |
+| 15-May | Agente con uso de navegador     | Agente LLM que interactúa con el navegador, accede a datos en tiempo real y responde tareas complejas. | [🔗 browser-use](https://github.com/ro-carlos/browser-use)                                              |
 
 ---
 
@@ -36,22 +33,22 @@ Este repositorio recopila todos los trabajos, proyectos, reflexiones y aprendiza
 
 Simulación de pedidos, análisis de inventario y evolución de eventos para una fábrica de impresoras 3D.  
 🔗 [Repositorio](https://github.com/ro-carlos/produccion-impresoras)  
-📝 Ver resumen del proyecto en el [PDF](./Proyecto Gestion Produccion.pdf) - Documento que detalla la simulación y análisis para la gestión de producción.
+📝 Ver resumen del proyecto en el [PDF](./Proyecto%20Gestión%20Producción.pdf)
 
 ### 🧩 Diagrama BPMN de TFM
 
 Modelo BPMN colaborativo que representa el flujo completo desde elección de tema hasta defensa del TFM.  
-📄 [Ver diagrama BPMN](./Diagrama BPMN.pdf) - Visualización del proceso completo del TFM en formato BPMN.
+📄 [Ver diagrama BPMN](./Diagrama%20BPMN.pdf)
 
 ### ☕ Mejora de Procesos del Bar de la FIB
 
 Propuesta tecnológica y organizacional para optimizar el bar universitario. Aplicación de principios Tayloristas con sistemas como kioscos, feedback digital y control de colas.  
-📄 [Ver documento](./Mejora de Procesos Bar de la FIB.pdf) - Análisis y propuesta para mejorar la eficiencia y experiencia en el bar universitario.
+📄 [Ver documento](./Mejora%20de%20Procesos%20Bar%20de%20la%20FIB.pdf)
 
 ### 📡 Introducción a MCP (Model Context Protocol)
 
 Análisis y explicación del nuevo estándar para conectar agentes de IA con el mundo real (Claude, GitHub, Notion).  
-📄 [Ver documento](./MCP.pdf) - Introducción al estándar MCP para conectar agentes de IA con herramientas del mundo real.
+📄 [Ver documento](./MCP.pdf)
 
 ### 💭 Reflexión crítica: Trabajos absurdos
 
@@ -63,12 +60,6 @@ Análisis y explicación del nuevo estándar para conectar agentes de IA con el 
 
 Considero que mi rendimiento a lo largo de la asignatura fue sólido y constante. Participé activamente en todos los hackatones, colaboré en proyectos complejos, y cambié profundamente mi forma de pensar al enfrentar problemas.  
 💯 **Nota que considero merecer: 9/10**
-
----
-
-## 🔍 ¿Qué haría diferente ahora?
-
-Al mirar atrás, reforzaría mi enfoque en técnicas de evaluación automática de prompts, mayor énfasis en agentes multi-turno y mejor integración de fuentes no estructuradas como imágenes o videos con los LLMs.
 
 ---
 
