@@ -33,7 +33,7 @@ Este repositorio recopila todos los trabajos, proyectos, reflexiones y aprendiza
 
 Simulación de pedidos, análisis de inventario y evolución de eventos para una fábrica de impresoras 3D.  
 🔗 [Repositorio](https://github.com/ro-carlos/produccion-impresoras)  
-📝 Ver resumen del proyecto en el [PDF](./Proyecto%20Gestión%20Producción.pdf)
+📝 Ver resumen del proyecto en el [PDF](./Proyecto%20Gestion%20Produccion.pdf)
 
 ### 🧩 Diagrama BPMN de TFM
 
