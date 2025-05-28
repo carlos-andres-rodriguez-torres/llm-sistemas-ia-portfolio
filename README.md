@@ -1,4 +1,4 @@
-# 📘 Portafolio - Asignatura de LLMs y Sistemas de IA (UPC - 2024/2025)
+# 📘 Portafolio - Desarrollo y Gestión de sistemas de Información (UPC - 2024/2025)
 
 Este repositorio recopila todos los trabajos, proyectos, reflexiones y aprendizajes realizados durante la asignatura. A través de prácticas semanales, exploramos el uso de modelos de lenguaje (LLMs), técnicas de prompting, recuperación semántica, agentes inteligentes y más.
 
@@ -65,5 +65,6 @@ Considero que mi rendimiento a lo largo de la asignatura fue sólido y constante
 
 ## 🙌 Créditos y equipo
 
-He trabajado junto a compañeros como: Oliver Chan, Juan José Acevedo, Ixent Cornellà, Carla Claramunt, entre otros.  
-Gracias al equipo docente y a Marc Alier por las sesiones prácticas y por mostrarnos que el futuro del desarrollo pasa por colaborar con la inteligencia artificial, no competir con ella.
+Esta asignatura fue impartida por el profesor Marc Alier, a quien agradezco profundamente por su enfoque práctico y visión clara sobre la evolución del desarrollo con IA.
+
+También agradezco la colaboración de mis compañeros: Oliver Chan, Juan José Acevedo, Ixent Cornellà, Carla Claramunt y los compañeros de clase, con quienes compartimos aprendizajes, retos y soluciones a lo largo del curso.
